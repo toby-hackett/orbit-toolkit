@@ -1,0 +1,3 @@
+# Orbit Toolkit
+
+Build a Python tool for orbit propagation, ground track and pass prediction, delta-v budgeting, or a basic mission design tool. Validate it against real data (NORAD TLEs, published mission data). This plays to your maths and programming strengths, costs nothing, and demonstrates that you can apply maths to physical systems. If you document it well and publish it on GitHub, it also serves as a portfolio piece. Pairing it with a small satellite-tracking ground station (an RTL-SDR dongle is around £30) lets you receive real signals from weather satellites such as NOAA or Meteor-M, which makes the work tangible.
